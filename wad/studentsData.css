@@ -1,0 +1,12 @@
+button {
+	margin: 10px 0px 10px 10px;
+}
+
+#add {
+	margin-left: 647px;
+}
+
+table, th, td {
+	border: 1px solid;
+	margin-left: 150px;
+}

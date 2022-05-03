@@ -1,0 +1,18 @@
+label {
+	margin-left: 150px;
+}
+
+button {
+	position: absolute;
+	height: 120px;
+	width: 300px;
+	top: 520px;
+}
+
+#studentsButton {
+	left:  580px;
+}
+
+#staffButton {
+	right: 580px;
+}
